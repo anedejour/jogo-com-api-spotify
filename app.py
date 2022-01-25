@@ -3,8 +3,8 @@ import random
 
 
 def main():
-    CLIENT_ID = '0dcba0e2ef534d4b9e25752ef8c73393'
-    CLIENT_SECRET = 'd99e595a25e64550bcd132a9eb7cdca8'
+    CLIENT_ID = 'your key here'
+    CLIENT_SECRET = 'your secret here'
     api = SpotifyApi(CLIENT_ID, CLIENT_SECRET)
 
     playlist_id = '1nDlz26IVMKgtSZCDXgyn9?si=ae9576cfe01f4421'
