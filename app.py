@@ -7,7 +7,7 @@ def main():
     CLIENT_SECRET = 'your secret here'
     api = SpotifyApi(CLIENT_ID, CLIENT_SECRET)
 
-    playlist_id = '1nDlz26IVMKgtSZCDXgyn9?si=ae9576cfe01f4421'
+    playlist_id = 'your playlist id here'
 
     print("Click on link and guess the song or type 'exit' to finish the game")
 
